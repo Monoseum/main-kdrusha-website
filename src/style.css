@@ -1,0 +1,52 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+  max-width: 662.5px;
+  font-family: sans-serif;
+}
+
+.navbar {
+  background: black;
+  width: 100%;
+  height: auto;
+}
+
+.mobile-menu-btn {
+  font-size: 14px;
+  padding: 9px;
+  display: none;
+  float: right;
+  cursor: pointer;
+  color: white;
+}
+
+.logo {
+  float: left;
+  padding: 9px;
+}
+
+.header {
+  float: right;
+  padding: 2em;
+}
+
+.header li {
+  float: right;
+  list-style: none;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+}
+
+.social-media-icons {
+  float: right;
+  padding: 9px;
+}
+
+.social-media-icons li {
+  float: right;
+  font-size: 10px;
+  color: white;
+}
