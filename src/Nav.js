@@ -5,9 +5,9 @@ import './style.css';
 class Nav extends React.Component {
   render() {
     return (
-      <div className="wrapper">
-        <div className="navbar">
-          <img src={logo} className="logo" alt="logo" />
+      <div class="wrapper">
+        <div class="navbar">
+          <img src={logo} class="logo" alt="logo" />
 
           <ul className="header">
              <li><a href="#">Home</a></li>
